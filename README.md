@@ -59,3 +59,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="60" height="60"/>&nbsp;
 
 </div>
+
+---
+
+### :fire: My Stats :
+
+![](https://github.com/yogo254/yogo-stats/blob/master/generated/overview.svg)
