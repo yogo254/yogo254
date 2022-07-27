@@ -16,8 +16,8 @@
 
 <div>
 <h1 align="center">
-  hey there
-  <img src="https://giphy.com/clips/elbformat-hamburg-engineer-binaryengineer-NiwZ9THiCOodYySoSh" width="30px"/>
+  hey there !!! 
+  
 </h1>
 </div>
 <div align="center">
