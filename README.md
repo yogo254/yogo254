@@ -1,17 +1,5 @@
 
- <style>
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-        }
-        
-        .item {
-            flex: 1 1 200px; /* Grow and shrink with a minimum width of 200px */
-            margin: 10px;
-            box-sizing: border-box;
-        }
-    </style>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
 </div>
